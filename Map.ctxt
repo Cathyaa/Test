@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Map()
+comment1.params=
+comment1.target=int\ randomPos()
+comment10.params=a\ b
+comment10.target=boolean\ foundFarmer(int,\ int)
+comment11.params=
+comment11.target=boolean\ checkEnd()
+comment2.params=
+comment2.target=void\ create()
+comment3.params=direction
+comment3.target=void\ move(java.lang.String)
+comment4.params=a\ b\ runAway
+comment4.target=boolean\ check(int,\ int,\ boolean)
+comment5.params=a\ b\ runAway
+comment5.target=boolean\ foundMon(int,\ int,\ boolean)
+comment6.params=a\ b
+comment6.target=void\ attack(int,\ int)
+comment7.params=a\ b
+comment7.target=boolean\ run(int,\ int)
+comment8.params=
+comment8.target=void\ foundPotion()
+comment9.params=
+comment9.target=void\ foundSword()
+numComments=12
